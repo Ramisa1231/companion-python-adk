@@ -44,8 +44,9 @@ body {
 }
 
 .character-viewer #character-image {
-    width: 600px;
-    height: 600px;
+    width: 250px;
+    height: 250px;
+    max-width: 100%;
     border-radius: 50%;
     object-fit: cover;
 }

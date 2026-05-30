@@ -24,3 +24,13 @@ env/
 .DS_Store
 *.log
 *.sqlite3'
+
+# local/secret/dev files
+.venv/
+__pycache__/
+*.pyc
+.env
+gemini_key.txt
+.agents/
+.antigravitycli/
+companion-python/
