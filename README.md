@@ -50,6 +50,8 @@ companion-python/
 └── templates/
     └── index.html
 ```
+## Screenshots
+![Chat Interface] <img width="1624" height="1372" alt="AI" src="https://github.com/user-attachments/assets/95d597ef-c6cb-4484-a9ff-f7cd09c49870" />
 
 ## Technologies Used
 
