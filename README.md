@@ -152,15 +152,15 @@ Through this project I learned:
 * Deployment on Google Cloud Run
 * Repository
 
-GitHub Repository:
+### GitHub Repository:
 
 https://github.com/Ramisa1231/companion-python-adk
 
-Credits
+### Credits
 
 This project was developed through the Google Developers Build with AI Program and the Google Agent Development Kit (ADK) beginner workshop.
 
-Workshop:
+### Workshop:
 
 https://codelabs.developers.google.com/companion-adk-beginner/instructions
 
