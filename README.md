@@ -51,7 +51,8 @@ companion-python/
     └── index.html
 ```
 ## Screenshots
-![Chat Interface] <img width="1624" height="1372" alt="AI" src="https://github.com/user-attachments/assets/95d597ef-c6cb-4484-a9ff-f7cd09c49870" />
+ <img width="1624" height="1372" alt="AI" src="https://github.com/user-attachments/assets/95d597ef-c6cb-4484-a9ff-f7cd09c49870" />
+
 
 ## Technologies Used
 
@@ -142,8 +143,29 @@ Through this project I learned:
 * Gemini Models
 * Google Cloud
 
+## Future Improvements
+* Voice input support
+* Text-to-speech integration
+* Multiple companion personalities
+* Memory and conversation history
+* Additional avatar expressions
+* Deployment on Google Cloud Run
+* Repository
+
+GitHub Repository:
+
+https://github.com/Ramisa1231/companion-python-adk
+
+Credits
+
+This project was developed through the Google Developers Build with AI Program and the Google Agent Development Kit (ADK) beginner workshop.
+
+Workshop:
+
+https://codelabs.developers.google.com/companion-adk-beginner/instructions
+
 ## Author
 
-Ramisa Fariha
+Syeda Ramisa Fariha
 
 GitHub: https://github.com/Ramisa1231
