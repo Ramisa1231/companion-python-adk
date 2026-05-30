@@ -1,5 +1,4 @@
 # Companion Python ADK
-# Companion Python ADK
 
 An interactive AI companion built using Google's Agent Development Kit (ADK), Gemini models, Flask, and custom AI-generated avatars.
 
